@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.numContainer {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+}
+
+.numChild {
+  width: 100px;
+  height: 200px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.numChild button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+
+}
