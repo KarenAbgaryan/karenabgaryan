@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karenabgaryan/static/css/main.424bcbda.css",
+    "main.js": "/karenabgaryan/static/js/main.6ffe0acf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/karenabgaryan/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/karenabgaryan/index.html",
+    "main.424bcbda.css.map": "/karenabgaryan/static/css/main.424bcbda.css.map",
+    "main.6ffe0acf.js.map": "/karenabgaryan/static/js/main.6ffe0acf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/karenabgaryan/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424bcbda.css",
+    "static/js/main.6ffe0acf.js"
+  ]
+}
